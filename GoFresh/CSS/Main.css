@@ -1,0 +1,25 @@
+body{
+  margin-top: 0;
+}
+.Body-Div{
+  background-color: #f8f1f1;
+}
+.NavCommons{
+  border: none;
+  color: black;
+  background-color: #f8f1f1;
+  font-size: 14px;
+  padding-right: 25px;
+}
+.inside-nav{
+  position: absolute;
+  left: 32%;
+  top:7%;
+  width: 35%;
+}
+.inside-nav-side{
+  position: absolute;
+  left: 80%;
+  top:7%;
+
+}
